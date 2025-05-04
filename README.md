@@ -8,7 +8,7 @@
 
 **Total Football** provides a structured and interactive football platform where:
 - Admins can manage players, matches, and stats.
-- Users can vote for the Player of the Week, create watchlists, and receive notifications.
+- Users can view teams, competitions, and player stats, create watchlists, and receive notifications.
 
 Inspired by platforms like **Transfermarkt** and **Sofifa**, this project demonstrates the application of relational databases, SQL, and web development practices in a real-world-like scenario.
 
@@ -18,7 +18,7 @@ Inspired by platforms like **Transfermarkt** and **Sofifa**, this project demons
 - 📋 **Admin Panel** for adding/editing data using Filament PHP  
 - 📊 **Sofifa-style Player Statistics**   
 - 📅 **User Watchlist** to track upcoming matches  
-- 🔔 **Email Notifications** for saved matches  
+- 🔔 **Email Notifications** for subscribed matches  
 - 💾 **MySQL Database** integration  
 - 🎨 **Custom Frontend** using only HTML and CSS (no Bootstrap)
 
