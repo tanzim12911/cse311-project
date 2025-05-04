@@ -90,11 +90,11 @@ To enable Email notifications within the application, run **mailhog** and go to 
 
 ## 📚 Course Info
 
-Course: CSE311L – Database Systems Lab
-Institution: North South University
-Instructor: NDA
-Semester: Spring 2025
-Project Type: Lab Group Project
+- **Course:** CSE311L – Database Systems Lab
+- **Institution**: North South University
+- **Instructor:** NDA
+- **Semester:** Spring 2025
+- **Project Type:** Lab Group Project
 
 ## 📄 License
 
