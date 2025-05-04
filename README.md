@@ -32,7 +32,7 @@ Inspired by platforms like **Transfermarkt** and **Sofifa**, this project demons
 ## 🧱 Database Schema
 
 You can view the complete schema for the database here:  
-👉 [CSE311 Project Final - DrawSQL Schema](https://drawsql.app/teams/jkteam-1/diagrams/cse311projectfinal)
+👉 [CSE311 Project Final - DrawSQL Schema](https://drawsql.app/teams/jkteam-1/diagrams/cse311projectfinal-2)
 
 ## 🚧 Setup Instructions
 
