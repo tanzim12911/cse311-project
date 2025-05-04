@@ -88,13 +88,14 @@ You can view the complete schema for the database here:
 
 To enable Email notifications within the application, run **mailhog** and go to `http://localhost:8025/`
 
-📚 Course Info
+## 📚 Course Info
+
 Course: CSE311L – Database Systems Lab
 Institution: North South University
 Instructor: NDA
 Semester: Spring 2025
-
 Project Type: Lab Group Project
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
